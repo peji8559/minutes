@@ -5,12 +5,23 @@ Attendence: 4pm: Jasper, Robert, Peng, Baiyu
 # Goals for meeting
 
 ## get team name
+ 404 Group Not Found
 
 ## Discuss Milestone 1
   - most topics for m1 are easy..just decide--comms etc.
   - **do need** to discuss/finalize project ideas
     - discuss pros/cons of various project ideas
 
+### Discussion of project managment methodologies
+
+using some sort of Agile Light: Kanban's YES -trello
+  - no sprints (organization is too small)
+     - use Kanban (trello) TODO, BLOCKED, DOING, DONE
+  - no daily standups
+     - communicate on group me
+  - YES kanban and retrospectives. 
+                                                     
+                                
 ## Set up git repos
    - meeting minutes
    - milestones
@@ -33,4 +44,6 @@ or some kind of data gathering
 "Craigslist but prettier"
  - formun-like
  - events only
- - CU only ----eventbrite clone-ish
+ - CU only --  eventbrite clone-ish
+
+
