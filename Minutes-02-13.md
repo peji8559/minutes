@@ -1,10 +1,10 @@
 # Meeting 1 - Wednesday February 13
 
-Attendence: 4pm: Jasper, Robert, Peng, Baiyu
+Attendence: 4pm: Jasper, Robert, Peng, Baiyu - 5pm: Jasper, Jason, Robert - Ryan 
 
 # Goals for meeting
 
-## get team name
+## get team name and set up github group
  404 Group Not Found
 
 ## Discuss Milestone 1
@@ -30,7 +30,7 @@ using some sort of Agile Light: Kanban's YES -trello
 
 MINIMAL REQUIREMENT: must be some kind of login
 
-some kind of web app
+some kind of web app -- all of the below has been copied to [Brainstorm.md](Brainstorm.md)
 
 ## Music streaming party playlist thing
 
@@ -39,12 +39,15 @@ some kind of web app
 ## could be device based or could be webscraping based
    some sort of data based app
 
+## Use Raspi to measure people traffic: Is the library crowded right now? CSEL?
+
+   - sniffs for wifi enabled devices
+
 ## p2p website: something similar to uber eats
 "Craigslist but prettier"
  - formun-like
  - events only
  - CU only --  eventbrite clone-ish
-
 
 
 
