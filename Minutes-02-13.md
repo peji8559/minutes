@@ -20,10 +20,9 @@ using some sort of Agile Light: Kanban's YES -trello
   - no daily standups
      - communicate on group me
   - YES kanban and retrospectives. 
-                                                     
-                                
+                                                                                     
 ## Set up git repos
-   - meeting minutes
+   - meeting minutes - this repo has been initialized
    - milestones
    - project
 
@@ -37,8 +36,8 @@ some kind of web app
 
 ## Fake Financial Exchange
 
-or some kind of data gathering
 ## could be device based or could be webscraping based
+   some sort of data based app
 
 ## p2p website: something similar to uber eats
 "Craigslist but prettier"
