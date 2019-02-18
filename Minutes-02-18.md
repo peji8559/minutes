@@ -13,7 +13,7 @@
 
 ## Milestone 1 Questions
 
-All of this will need to by typed up in a pdf for submission
+*All of this will need to by typed up in a pdf for submission*
 
 1. Team Number
    
